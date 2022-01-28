@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Aditya Kate</h1>
+<h3 align="center">Passionate student who loves to code</h3>
 
-<!--
-**Aditya0049/Aditya0049** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I love to learn about **economics, sociology, history, languages and programming, WebDev**
 
-Here are some ideas to get you started:
+- 💬 I'm speaking **Marathi, Hindi, English, trying to learn Japanese**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Aditya0049&show_icons=true" alt="dedeogluhu" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya0049&layout=compact" alt="dedeogluhu" />
+</p>
+
