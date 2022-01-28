@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Kate</h1>
 <h3 align="center">Passionate student who loves to code</h3>
 
-- 🔭 I love to learn about **economics, sociology, history, languages and programming, WebDev**
+- 🔭 I love to learn about **economics, CP, WebDev**
 
 - 💬 I'm speaking **Marathi, Hindi, English, trying to learn Japanese**
 
