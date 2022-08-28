@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aditya0049&label=Profile%20views&color=0e75b6&style=flat" alt="aditya0049" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya0049" alt="aditya0049" /></a> </p>
+<p align="centre"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aditya0049" alt="aditya0049" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/adityababankate" target="blank"><img src="https://img.shields.io/twitter/follow/adityababankate?logo=twitter&style=for-the-badge" alt="adityababankate" /></a> </p>
 
@@ -41,7 +41,7 @@
 <p><a href="https://www.buymeacoffee.com/adityakate"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="adityakate" /></a><a href="https://ko-fi.com/adityababankate"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="adityababankate" /></a></p><br><br>
 <br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya0049&show_icons=true&locale=en&layout=compact" alt="aditya0049" /></p>
-
+<br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya0049&show_icons=true&locale=en" alt="aditya0049" /></p>
-
+<br><br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya0049&" alt="aditya0049" /></p>
