@@ -41,6 +41,6 @@
 <p><a href="https://www.buymeacoffee.com/adityakate"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="adityakate" /></a><a href="https://ko-fi.com/adityababankate"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="adityababankate" /></a></p><br><br>
 <br><br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya0049&show_icons=true&locale=en&layout=compact" alt="aditya0049" /></p>
-<br><br>
+<br><br><br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya0049&show_icons=true&locale=en" alt="aditya0049" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya0049&" alt="aditya0049" /></p>
