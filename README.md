@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **adityababankate@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vCgLln7XXZzw37r3JIVTmurrM0ShufRe/view?usp=sharing](https://drive.google.com/file/d/1vCgLln7XXZzw37r3JIVTmurrM0ShufRe/view?usp=sharing)
+- 📄 Know about my experiences [Resumr link](https://drive.google.com/file/d/1RrwoOny4_4EYBtEsmJrKl9ya8kDof3Yw/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
